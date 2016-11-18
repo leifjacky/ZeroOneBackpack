@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\leif\documents\visual studio 2015\projects\zeroonebackpack\zeroonebackpack\main.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\leif\documents\visual studio 2015\projects\zeroonebackpack\zeroonebackpack\main.cpp(316): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZeroOneBackpack.vcxproj -> C:\Users\Leif\documents\visual studio 2015\Projects\ZeroOneBackpack\Debug\ZeroOneBackpack.exe
+  ZeroOneBackpack.vcxproj -> C:\Users\Leif\documents\visual studio 2015\Projects\ZeroOneBackpack\Debug\ZeroOneBackpack.pdb (Partial PDB)
